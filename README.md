@@ -1,6 +1,9 @@
 # CD-STUDY
 CS Study
 
+#참고 URL
+https://gdscewha.tistory.com/category/4-1%EA%B8%B0%20%EC%8A%A4%ED%84%B0%EB%94%94/CS%20%EA%B8%B0%EC%B4%88?page=2
+
 #주제
 - 자료구조/알고리즘
 - 운영체제
