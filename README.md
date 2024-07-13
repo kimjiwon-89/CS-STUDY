@@ -61,7 +61,7 @@
 
 - **자료구조**
   - Array & ArrayList & LinkedList
-  - 스택(Stack) & 큐(Queue)[은숙]
+  - [스택(Stack) & 큐(Queue)](https://ssookssook.tistory.com/m/21)[은숙]
   - 힙(Heap)[지원]
   - 이진탐색트리(Binary Search Tree)
   - 해시(Hash)
