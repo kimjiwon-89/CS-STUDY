@@ -66,7 +66,8 @@
   - 이진탐색트리(Binary Search Tree)
   - 해시(Hash)
   - 트라이(Trie)
-  - B-Tree & B+Tree[경미]
+  - [B-Tree & B+Tree](https://run-ran-run-ant.tistory.com/80)[경미]
+      - [B-Tree](https://run-ran-run-ant.tistory.com/79)
 
 - **네트워크**
   - OSI 7 계층
