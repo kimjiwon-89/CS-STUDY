@@ -60,14 +60,15 @@
   - final
 
 - **자료구조**
-  - Array & ArrayList & LinkedList
+  - Array & ArrayList & LinkedList[지원]
   - [스택(Stack) & 큐(Queue)](https://ssookssook.tistory.com/m/21)[은숙]
   - [힙(heap)](https://winter-love13.tistory.com/13)[지원]
   - 이진탐색트리(Binary Search Tree)
-  - 해시(Hash)
-  - 트라이(Trie)
+  - 해시(Hash)[은숙]
+  - 트라이(Trie)[경미]
   - [B-Tree & B+Tree](https://run-ran-run-ant.tistory.com/80)[경미]
       - [B-Tree](https://run-ran-run-ant.tistory.com/79)
+
 
 - **네트워크**
   - OSI 7 계층
