@@ -47,7 +47,7 @@
   Array - 컴파일 단계에서 Stack 영역에 메모리를 할당
   Linked List - 런타임 단계에서 새 노드 추가 시 마다 Heap 영역 메모리 할당
 
-10. Dynamic Array , Linked List 비교 장단점 설명
+### 10. Dynamic Array , Linked List 비교 장단점 설명
   Dynamic Array
     장점 : 데이터 접근, 할당이 O(1) 로 빠르고 맨 뒤 삽입, 삭제 시 상대적으로 빠르다.
     단점 : Linked와 비교 시 맨 끝이 아닌 곳에 삽입, 삭제 시 O(N)으로 느리고 resize 시 낮은 performance 발생
