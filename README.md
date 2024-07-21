@@ -60,7 +60,7 @@
   - final
 
 - **자료구조**
-  - [Array & ArrayList & LinkedList](https://winter-love13.tistory.com/16)
+  - [Array & ArrayList & LinkedList](https://winter-love13.tistory.com/16)[지원]
   - [스택(Stack) & 큐(Queue)](https://ssookssook.tistory.com/m/21)[은숙]
   - [힙(heap)](https://winter-love13.tistory.com/13)[지원]
   - 이진탐색트리(Binary Search Tree)
