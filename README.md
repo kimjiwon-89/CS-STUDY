@@ -204,3 +204,4 @@
   - https://github.com/da-in/tech-interview-study/blob/main/CS%20Deep%20Dive
   - https://gyoogle.dev/blog/
   - https://www.cs.usfca.edu/~galles/visualization/BTree.html
+  - [자료구조 질문사항](https://pinopino.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EB%A9%B4%EC%A0%91-%EB%8C%80%EB%B9%84-%EC%A7%88%EB%AC%B8-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%97%85)
