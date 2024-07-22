@@ -63,11 +63,14 @@
   - [Array & ArrayList & LinkedList](https://winter-love13.tistory.com/16)[지원]
   - [스택(Stack) & 큐(Queue)](https://ssookssook.tistory.com/m/21)[은숙]
   - [힙(heap)](https://winter-love13.tistory.com/13)[지원]
-  - 이진탐색트리(Binary Search Tree)
+  - 이진트리( 이진탐색트리(Binary Search Tree), AVL 트리 )[지원]
   - [해시(Hash)](https://ssookssook.tistory.com/m/23)[은숙]
   - [트라이(Trie)](https://run-ran-run-ant.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%ED%8A%B8%EB%9D%BC%EC%9D%B4Trie)[경미]
   - [B-Tree & B+Tree](https://run-ran-run-ant.tistory.com/80)[경미]
       - [B-Tree](https://run-ran-run-ant.tistory.com/79)
+   
+  - 레드블랙트리[은숙]
+  - Set[경미]
 
 
 - **네트워크**
