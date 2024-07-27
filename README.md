@@ -1,6 +1,6 @@
 # CS Study
 
-# 📣규칙
+# 📣 규칙
 <table>
   <tr>
     <th>월</th>
@@ -26,7 +26,7 @@
 <br/>
 <br/>
 
-# 👊🏼스터디원
+# 👊🏼 스터디원
 |이름|GitHub|
 |:----:|:------:|
 |김지원|[@kimjiwon-89](https://github.com/kimjiwon-89)|
@@ -34,7 +34,7 @@
 |김경미|[@KIMKYOUNGMI13](https://github.com/KIMKYOUNGMI13)|
 <br/>
 
-# 📃주제
+# 📃 주제
 - 자료구조/알고리즘
 - 컴퓨터구조
 - 운영체제
@@ -42,7 +42,7 @@
 - 네트워크
 <br/>
 
-# 📑학습 주제
+# 📑 학습 주제
 [CS-Study](https://github.com/da-in/tech-interview-study/blob/main/CS%20Deep%20Dive)를 참고해서 만들었습니다.
 
 - **개발상식**
@@ -70,7 +70,7 @@
       - [B-Tree](https://run-ran-run-ant.tistory.com/79)
    
   - 레드블랙트리[은숙]
-  - Set[경미]
+  - [Set](https://run-ran-run-ant.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Set-Java-HashSet%EC%9D%B4-%EC%A0%95%EB%A0%AC%EC%9D%B4)[경미]
 
 
 - **네트워크**
@@ -201,7 +201,7 @@
 
 
 
-# ✨참고 URL
+# ✨ 참고 URL
 
   - https://gdscewha.tistory.com/category/4-1%EA%B8%B0%20%EC%8A%A4%ED%84%B0%EB%94%94/CS%20%EA%B8%B0%EC%B4%88?page=2
   - https://github.com/da-in/tech-interview-study/blob/main/CS%20Deep%20Dive
