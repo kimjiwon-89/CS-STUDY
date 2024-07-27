@@ -69,7 +69,7 @@
   - [B-Tree & B+Tree](https://run-ran-run-ant.tistory.com/80)[경미]
       - [B-Tree](https://run-ran-run-ant.tistory.com/79)
    
-  - 레드블랙트리[은숙]
+  - [레드블랙트리](https://ssookssook.tistory.com/25)[은숙]
   - [Set](https://run-ran-run-ant.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Set-Java-HashSet%EC%9D%B4-%EC%A0%95%EB%A0%AC%EC%9D%B4)[경미]
 
 
