@@ -122,7 +122,7 @@
   - 스트레티지 패턴
 
 - **Algorithm**
-  - 거품 정렬(Bubble Sort)
+  - 거품 정렬(Bubble Sort)[지원]
   - 선택 정렬(Selection Sort)
   - 삽입 정렬(Insertion Sort)
   - 퀵 정렬(Quick Sort)
@@ -134,7 +134,7 @@
   - 이분 탐색(Binary Search)
   - 세그먼트 트리
   - 해시(Hash)
-  - DFS & BFS
+  - DFS & BFS [경미]
   - 최장 증가 수열(LIS)
   - 최소 공통 조상(LCA)
   - 동적 계획법(Dynamic Programming)
@@ -208,3 +208,4 @@
   - https://gyoogle.dev/blog/
   - https://www.cs.usfca.edu/~galles/visualization/BTree.html
   - [자료구조 질문사항](https://pinopino.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EB%A9%B4%EC%A0%91-%EB%8C%80%EB%B9%84-%EC%A7%88%EB%AC%B8-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%97%85)
+  - [시간복잡도](https://www.grepiu.com/post/9)
