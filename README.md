@@ -123,7 +123,7 @@
 
 - **Algorithm**
   - 거품 정렬(Bubble Sort)[지원]
-  - 선택 정렬(Selection Sort)
+  - 선택 정렬(Selection Sort)[은숙]
   - 삽입 정렬(Insertion Sort)
   - 퀵 정렬(Quick Sort)
   - 합병 정렬(Merge Sort)
