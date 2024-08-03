@@ -122,7 +122,7 @@
   - 스트레티지 패턴
 
 - **Algorithm**
-  - 거품 정렬(Bubble Sort)[지원]
+  - [거품 정렬(Bubble Sort)](https://winter-love13.tistory.com/29)[지원]
   - 선택 정렬(Selection Sort)[은숙]
   - 삽입 정렬(Insertion Sort)
   - 퀵 정렬(Quick Sort)
