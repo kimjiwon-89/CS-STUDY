@@ -134,7 +134,7 @@
   - 이분 탐색(Binary Search)
   - 세그먼트 트리
   - 해시(Hash)
-  - DFS & BFS [경미]
+  - [DFS & BFS](https://run-ran-run-ant.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B9%8A%EC%9D%B4-%EC%9A%B0%EC%84%A0-%ED%83%90%EC%83%89DFS%EA%B3%BC-%EB%84%88%EB%B9%84-%EC%9A%B0%EC%84%A0-%ED%83%90%EC%83%89BFS) [경미]
   - 최장 증가 수열(LIS)
   - 최소 공통 조상(LCA)
   - 동적 계획법(Dynamic Programming)
