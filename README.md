@@ -125,7 +125,7 @@
   - [거품 정렬(Bubble Sort)](https://winter-love13.tistory.com/29)[지원]
   - [선택 정렬(Selection Sort)](https://ssookssook.tistory.com/m/27)[은숙]
   - [삽입 정렬(Insertion Sort)](https://winter-love13.tistory.com/31)[지원]
-  - 퀵 정렬(Quick Sort)
+  - [퀵 정렬(Quick Sort)](https://ssookssook.tistory.com/m/28)[은숙]
   - 합병 정렬(Merge Sort)
   - 힙 정렬(Heap Sort)
   - 기수 정렬(Radix Sort)
