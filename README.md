@@ -126,7 +126,7 @@
   - [선택 정렬(Selection Sort)](https://ssookssook.tistory.com/m/27)[은숙]
   - [삽입 정렬(Insertion Sort)](https://winter-love13.tistory.com/31)[지원]
   - [퀵 정렬(Quick Sort)](https://ssookssook.tistory.com/m/28)[은숙]
-  - 합병 정렬(Merge Sort)
+  - [합병 정렬(Merge Sort)](https://winter-love13.tistory.com/32)[지원]
   - 힙 정렬(Heap Sort)
   - 기수 정렬(Radix Sort)
   - [계수 정렬(Count Sort)](https://ssookssook.tistory.com/29)[은숙]
