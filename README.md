@@ -129,7 +129,7 @@
   - 합병 정렬(Merge Sort)
   - 힙 정렬(Heap Sort)
   - 기수 정렬(Radix Sort)
-  - 계수 정렬(Count Sort)
+  - [계수 정렬(Count Sort)](https://ssookssook.tistory.com/29)[은숙]
   - 비트마스크(BitMask)
   - 이분 탐색(Binary Search)
   - 세그먼트 트리
