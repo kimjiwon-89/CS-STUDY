@@ -77,7 +77,7 @@
   - OSI 7 계층
   - TCP 3 way handshake & 4 way handshake
   - TCP/IP 흐름제어 & 혼잡제어[경미]
-  - TCPvsUDP[지원]
+  - [TCPvsUDP](https://winter-love13.tistory.com/33)[지원]
   - 대칭키 & 공개키
   - HTTP & HTTPS
   - 로드 밸런싱(Load Balancing)
