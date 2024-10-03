@@ -79,7 +79,7 @@
   - [TCP/IP 흐름제어 & 혼잡제어](https://run-ran-run-ant.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-TCPIP-%ED%9D%90%EB%A6%84-%EC%A0%9C%EC%96%B4-%EC%99%80-%ED%98%BC%EC%9E%A1-%EC%A0%9C%EC%96%B4)[[경미]
   - [TCPvsUDP](https://winter-love13.tistory.com/33)[지원]
   - 대칭키 & 공개키
-  - HTTP & HTTPS
+  - [HTTP & HTTPS](https://winter-love13.tistory.com/34)[지원]
   - 로드 밸런싱(Load Balancing)
   - Blocking & Non-Blocking I/O
 
